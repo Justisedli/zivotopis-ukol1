@@ -1,0 +1,35 @@
+body {background-color: #F4C1E5;
+border: solid black 2px; padding-left: 20px; padding-top: 20px;}
+h1, h2, h3{color: black;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+h2 {color: black; font-size: larger;}
+h1{font-size:xx-large;}
+header{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: x-large;color: black; font-weight: bold; margin-bottom: 10px;}
+img {margin-left: 400px; margin-top: 10px; border: solid black 2px; max-width: 100%;
+    height: auto; border-radius: 50%;}
+
+.sloupec { position: relative;
+    margin-top: -370px;}
+
+.studentka{
+margin-top: -20px; color:dimgray ;}
+.hlava{font-weight: bold;}
+
+.nadpis{font-size: x-large;}
+.cas{font-size: medium; color:dimgray; margin-top: 5px; margin-bottom: 0px;}
+.hlavni{margin-bottom: 2px;}
+.popis {margin-bottom: 10px; margin-top: 3px;}
+.fa-instagram {
+    color: #E4405F;
+    font-size: 24px;}
+ .fa-facebook{color: blue;font-size: 24px;margin-left: 10px;}
+ a:hover .fa-instagram {
+    color: #E4405F;
+    transform: scale(1.1); 
+  }
+  a:hover .fa-facebook{color: blue;
+transform: scale(1.1);}
+
+
+  
